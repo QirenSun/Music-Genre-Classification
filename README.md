@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/QirenSun/Music-Generator/blob/master/Image/11-yic-pop-essay.w1200.h630.jpg" >
+</p>
+
 # Music Genre Classification   
 
 Research in **Deep learning and machine learning**, Boston University   
