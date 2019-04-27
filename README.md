@@ -34,7 +34,7 @@ Pytorch: CNN, DCNN, DCNN-RNN
 </p>
 
 <p align="center">
-<img src="https://github.com/QirenSun/Music-Generator/blob/master/Image/3.jpg" >
+<img src="https://github.com/QirenSun/Music-Generator/blob/master/Image/3.PNG" >
 </p>
 
 
