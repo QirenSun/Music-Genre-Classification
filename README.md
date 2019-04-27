@@ -29,6 +29,15 @@ Spectrogram images
 Scikit-learn: SVM, MLP lbfgs(quasi-Newton method), MLP Adam(gradient-based optimizer), Decision Tree  
 Pytorch: CNN, DCNN, DCNN-RNN  
 
+<p align="center">
+<img src="https://github.com/QirenSun/Music-Generator/blob/master/Image/CNN_all_layers.png" >
+</p>
+
+<p align="center">
+<img src="https://github.com/QirenSun/Music-Generator/blob/master/Image/3.jpg" >
+</p>
+
+
 ## Results  
 
 Scikit-learn with MFCC(20), Spectral Centroid, Zero Crossing Rate, Chroma Frequencies, Spectral Roll-off:  
