@@ -24,6 +24,15 @@ Chroma Frequencies
 Spectral Roll-off  
 Spectrogram images  
 
+<p align="center">
+<img src="https://github.com/QirenSun/Music-Generator/blob/master/Image/1.PNG" >
+</p>
+
+<p align="center">
+<img src="https://github.com/QirenSun/Music-Generator/blob/master/Image/2.PNG" >
+</p>
+
+
 ## Models   
 
 Scikit-learn: SVM, MLP lbfgs(quasi-Newton method), MLP Adam(gradient-based optimizer), Decision Tree  
