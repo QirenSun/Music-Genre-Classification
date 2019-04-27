@@ -14,6 +14,9 @@ My work classifies ten classes music genre of a sound sample and uses Pytorch an
 
 The dataset consists of 1000 audio tracks each 30 seconds long. It contains 10 genres, each represented by 100 tracks. The tracks are all 22050Hz Mono 16-bit audio files in .wav format.    
 Classes: blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock  
+Training Set: 80%  
+Testing Set: 10%  
+Validing Set: 10%  
 
 ## Preprocessing Data   
 
